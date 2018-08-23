@@ -1,0 +1,380 @@
+pdp-1
+nintendo 64
+super nintendo entertainment system snes
+nintendo entertainment system nes
+sega mega drive/genesis
+zx spectrum
+nintendo 3ds
+nintendo ds
+nintendo super famicom
+nintendo famicom
+nintendo game boy
+nintendo gamecube
+nintendo switch
+wii u
+nintendo wii
+apple ii
+atari 2600
+commodore 64
+sega sg-1000
+sega 32x
+sega dreamcast
+sega game gear
+sega master system
+sega mega cd
+sega saturn
+playstation 4
+playstation 3
+playstation 2
+playstation
+intellivision
+xbox one
+xbox 360
+xbox
+3do
+atari 7800
+atari 5200
+turbografx
+vectrex
+atari 8-bit
+atari jaguar
+atari lynx
+arcade game
+ms-dos
+apple macintosh
+colecovision
+magnavox odyssey
+magnavox odyssey2
+amstrad cpc
+adventurevision
+bally astrocade
+plato network game
+bbc micro
+commodore amiga
+commodore pet
+famicom disk system
+game & watch
+game boy advance
+game boy color
+nintendo 64dd
+nintendo ique
+nintendo vs. system
+nintendo virtual boy
+oculus rift
+neo geo
+neo-geo pocket
+nec pc-88
+nec pc-98
+philips cd-i
+pioneer laseractive
+playstation vita
+nokia n-gage
+htc vive
+pc game
+ios game
+flash game
+facebook game
+browser game
+android mobile game
+game.com
+amstrad pcw
+acorn electron
+.net framework
+acorn archimedes
+alltel
+amazon fire tv
+amazon.com
+amd
+amstrad gx4000
+analog computer
+apple pippin
+apple tv
+apricot pc
+arcadia 2001
+arm architecture
+aros
+atari falcon
+atari st
+bada
+basic
+beos
+blackberry game
+blu-ray
+board game
+bounty hunter
+broadband
+camputers lynx
+capcom power system changer
+carbon (api)
+cassette vision
+cdtv
+chatrooms
+coin-op
+coleco adam
+collectible card game
+commodore 128
+commodore 16
+commodore cdtv
+commodore plus 4
+commodore plus/4
+cp system
+cp system ii
+cp/m
+crossover (software)
+cryogenic
+cyberflix
+data general nova
+dec alpha
+dec rainbow
+decsystem-20
+dedicated console
+desqview
+digiblast
+direct2drive
+directx
+dmca
+dna
+doja
+dragon 32
+dragon 32/64
+dragon computer
+dsl
+dvd game
+dvd tv game
+electronic delay storage automatic calculator
+electronika 60
+emacs lisp
+enterprise 128
+entex adventure vision
+epoch cassette vision
+epson qx-10
+escape the room
+exidy sorcerer
+exult
+ezweb
+fangame
+fire os
+fm towns
+foma
+freebsd
+freemium
+fujitsu fm towns marty
+fujitsu fm-7
+gamate
+game wave system
+gamestick
+gametap
+gametree tv
+geforce 2
+geforce 9500
+gfwl
+gizmondo
+glulx
+gnu
+gnu emacs
+gog.com
+google play
+gp2x
+gp2x wiz
+gp32
+graphic adventure game
+gree
+handheld electronic game
+homebrew game
+hp time-shared basic
+hp touchpad
+hp3000
+i-mode
+imlac pds-1
+intel
+interactive movie
+ipod game
+j2me
+jakks pacific
+kaypro ii
+kddi
+kindle fire
+laseractive
+laserdisc
+leap motion
+leapster
+linux game
+lunicus
+mac os x
+maclisp
+maemo
+mainframe game
+marble madness
+mattel aquarius
+meego
+mega-tech
+memotech mtx
+microsoft windows
+microvision
+midi
+midlet
+mips architecture
+mixi
+mobage
+mobile game
+morphos
+msn games
+msx
+msx2
+multics
+namco museum remix
+namco system 246
+nascom
+naver
+nec apc
+nec pc-6000
+nec pc-6001
+nec pc-8000
+nec pc-fx
+neo-geo x
+net jet
+netbsd
+nexon america
+niconico
+nook tablet
+ntt docomo
+nuon dvd game
+nvidia
+nvidia shield
+olpc xo-1
+online community
+onlive game
+openvms
+oric
+oric 1
+oric atmos
+oric-1
+os/2 warp 4
+osborne 1
+osvr
+ouya
+ovi (nokia)
+palm (pda)
+palm os
+palm pda
+palm pre
+palm webos
+pandora (console)
+panzer dragoon orta
+parodius portable
+pc booter
+pc8801
+pda game
+pdp-10
+pdp-11
+pdp-7
+pdp-8
+pdp-9
+pelican vg pocket
+pentium 4
+pl/1
+playbook
+playchoice-10
+playstation home
+playstation move
+playstation network
+playstation store
+playstation vr
+pmd 85
+pocket pc
+pocketstation
+pony canyon
+powerpc
+pravetz computers
+psion 3a
+pv-1000
+qualcomm brew
+r-zone
+radeon 9000
+radeon hd 4000
+remote play
+risc os
+risc pc
+rm plc
+roku game
+ron schnell
+s60 platform
+sam coupe
+samsung gear vr
+samsung smart tv
+satellaview
+scummvm
+sds sigma 7
+sega ages
+sega sc-3000
+sega smash pack
+sega zone
+sempron
+series 40
+sh-3 (superh)
+sharp mz
+sharp x1
+sharp x68000
+shield android tv
+shield tablet
+silicon graphics
+simulator ride
+sinclair ql
+smart tv
+sony ericsson xperia play
+sony psp
+sord m5
+source port
+sparc
+sprint pcs
+spry fox
+st-v
+steam game
+super a'can
+super cassette vision
+supergrafx
+symbian
+symbian os
+symbian^3
+taito memories
+tandy 1000
+tapwave zodiac
+tatung einstein
+tcl
+telnet
+thomson mo5
+thomson to7
+ti-99
+tiger handheld
+tomy tutor
+toshiba
+trs-80
+tv game
+tvos
+vector-06c
+vhs game
+vic 20
+warpos
+webos
+webtv
+windows live messenger
+windows mobile phone
+wine (software)
+wonderswan
+word game
+x window system
+x11
+x68000
+x86
+xemacs
+xerox star
+xevious
+xperia play
+yahoo mobile
+z-machine
+zeebo
+zeta
+zune
+zx80
+zx81
+xbox live arcade
