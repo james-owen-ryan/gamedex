@@ -88,25 +88,21 @@ class Pipeline(object):
 
     def cull_games_with_short_articles(self):
         """Remove games from the corpus whose articles are too short."""
-
-        N_REMOVED = 0
-
         if self.verbose:
             print "Removing short articles..."
+        number_of_articles_removed = 0
         for game in list(self.corpus):
             if len(game.raw_text.split()) < THRESHOLD_FOR_DOCUMENT_LENGTH:
-                N_REMOVED += 1
+                number_of_articles_removed += 1
                 self.corpus.remove(game)
-
-        print "REMOVED {} SHORT ARTICLES".format(N_REMOVED)
+        if self.verbose:
+            print "\tRemoved {n} short articles".format(n=number_of_articles_removed)
 
     def cull_duplicates(self):
         """Isolate duplicate games in the corpus and remove all but one of each."""
-
-        N_REMOVED = 0
-
         if self.verbose:
             print "Removing duplicate games..."
+        number_of_duplicate_articles_removed = 0
         # Remove documents that are duplicates of other documents in the corpus; this appears to occur
         # when two games that are in the same series, or related in some other way, are not notable
         # enough to each have their own Wikipedia articles and so share a single article
@@ -141,9 +137,9 @@ class Pipeline(object):
                         archetype.alternate_years.append(dupe.year)
                     # Remove the duplicate from the corpus
                     self.corpus.remove(dupe)
-                    N_REMOVED += 1
-
-        print "REMOVED {} DUPES".format(N_REMOVED)
+                    number_of_duplicate_articles_removed += 1
+        if self.verbose:
+            print "\tRemoved {n} duplicate articles".format(n=number_of_duplicate_articles_removed)
 
     def cull_miscellaneous_erroneous_documents(self):
         """Cull documents that were erroneously extracted (for various reasons)."""
